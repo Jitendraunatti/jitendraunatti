@@ -108,15 +108,6 @@ My goal is to understand how platforms protect data so I can design
 
 ---
 
-<div align="center">
-
-## 📈 CONTRIBUTION GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitendraunatti&theme=react-dark" />
-
-</div>
-
----
 
 <div align="center">
 
